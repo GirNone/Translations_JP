@@ -3,4 +3,4 @@
 
 This repository is for personal language learning practice.
 Content is created for study purposes only.
-👉 不解释、不自我介绍、不卖惨。
+日本語と英語を勉強しましょう
